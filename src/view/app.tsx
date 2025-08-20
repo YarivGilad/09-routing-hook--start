@@ -7,6 +7,7 @@ import { Contact } from "./contact.tsx";
 import { Links } from "./links.tsx";
 
 const App = () => {
+  
   return (
     <Wrapper>
       <TopBar>

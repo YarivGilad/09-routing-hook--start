@@ -1,9 +1,11 @@
 import styled from "styled-components";
 import { flexbox } from "../styles/mixins.ts";
 
+
 export function About(){
+
   return (
-    <Box>
+    <Box >
       <h1>About everything that matters</h1>
     </Box>
   );
